@@ -1,0 +1,21 @@
+body{
+    background-color:ghostwhite;
+    color: darkgreen;
+}
+img{
+    float: none;
+}
+.me,.projects,.about{
+    padding-left:10px ;
+    margin: auto;
+    text-align: none;  
+}
+h1,h2,h3,h4{
+       text-align: center;
+       color: brown; 
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    padding-bottom: 30px;
+
+}
