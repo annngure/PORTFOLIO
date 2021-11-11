@@ -1,5 +1,3 @@
-
-
 # My Portfolio
 
 #### This is a site dedicated to documenting my coding work/journey, 11/05/2021
