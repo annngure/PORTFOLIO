@@ -1,19 +1,38 @@
-# PORTFOLIO
-#### Talks about myself and what I do, 06/11/2021
-#### By *Moringa School**
+
+
+# My Portfolio
+
+#### This is a site dedicated to documenting my coding work/journey, 11/05/2021
+
+#### By **Ann Ngure**
+
 ## Description
-##The application is about the projects that I have done and more about I do.
+This is about the codes that i have done and more that i will do ,the site built with HTML and CSS.
+
 ## Setup/Installation Requirements
-* Clone the repo https://annngure.github.io/Portfolio/
-* Installation of github
-* Copy my github link to access my portfolio
-Installation of Visual Studio Code and GITHUB
-Have a web server to access internet
+
+* Clone the repo :{git clone https://github.com/kennjr/Portfolio.git }
+
+* No server or dependencies needed to run the code.
+
+## Live link
+
+https://annngure.github.io/Portfolio/
+
 ## Known Bugs
-Should merge the master and branches well to avoid error
+the image might change in size
+
 ## Technologies Used
-The languages and tools used to create this app are HTML and CSS. 
+
+This project has been written in HTML and CSS.
+
 ## Support and contact details
-Email:annwanjikungure@gmail.com
-This is under the [MIT](LICENSE) license
-Copyright (c) 2021 **Github**
+
+If you run into any issues with the code you can contribute to the project, reporting the issue and probably suggesting a fix.
+
+### License
+
+This software is under the [MIT](LICENSE) license
+
+Copyright (c) {2021} 
+
