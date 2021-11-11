@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 img {
-  float: left;
+  flex:auto;
 }
 .me,
 .about {
@@ -27,7 +27,7 @@ h4 {
   /* padding-left:10px ; */
   margin: auto;
   text-align: center;
-  background-color: darkgrey;
+  background-color: grey;
   margin: 0;
 }
 
