@@ -9,7 +9,7 @@ This is about the codes that i have done and more that i will do ,the site built
 
 ## Setup/Installation Requirements
 
-* Clone the repo :{git clone https://github.com/kennjr/Portfolio.git }
+* Clone the repo :{git clone https://github.com/annngure/Portfolio }
 
 * No server or dependencies needed to run the code.
 
